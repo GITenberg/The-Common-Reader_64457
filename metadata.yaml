@@ -1,0 +1,26 @@
+_repo: The-Common-Reader_64457
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Woolf, Virginia
+    aliases:
+    - Woolf, Virginia Stephen
+    - Stephen, Virginia
+    birthdate: 1882
+    deathdate: 1941
+    gutenberg_agent_id: '89'
+    url: http://www.gutenberg.org/2009/agents/89
+    wikipedia: http://en.wikipedia.org/wiki/Virginia_Woolf
+description: ''
+gutenberg_issued: '2021-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64457'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Common Reader
+url: http://www.gutenberg.org/ebooks/64457
